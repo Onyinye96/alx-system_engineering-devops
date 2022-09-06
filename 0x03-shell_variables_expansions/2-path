@@ -1,2 +1,2 @@
 #!/bin/bash
-vi 2-path
+export PATH=${PATH}:/action
